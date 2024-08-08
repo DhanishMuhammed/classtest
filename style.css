@@ -1,0 +1,61 @@
+header{
+   display: flex;
+   
+   justify-content: space-around;
+   background-color:rgb(211, 208, 205) ;
+}
+header h1{
+    position: absolute;
+    left:  5%;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+
+.ho ul{
+    display: flex;
+    margin: 10px;
+    
+   
+    
+}
+.ho li{
+    margin: 10px;
+}
+.ho{
+    justify-content: space-around;
+    display: flex;
+   
+   
+    right: 10%;
+}
+.ho button{
+    border-radius: 10px;
+    justify-content: space-around;
+    margin: 10px;
+    
+}
+#banner{
+    /* background-image: url(https://img.freepik.com/free-photo/group-multinational-busy-people-working-office_146671-15665.jpg); */
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 1500px;
+   
+}
+#banner img{
+    position: absolute;
+    right: 6%;
+}
+#banner h3{
+    position: absolute;
+    left: 5%;
+    top: 35%;
+}
+#banner p{
+    position: absolute;
+    left: 5%;
+    top: 43%;
+}
+#cont{
+    text-align: center;
+}
